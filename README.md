@@ -186,8 +186,7 @@ Business Insights
 ---
 
 ## 📸 Dashboard Preview
-
-![E-Commerce Dashboard](Images/E-commerce%20dashboard.png)
+![Dashboard](./E-commerce%20dashboard.png)
 
 
 ## 📚 Future Improvements
